@@ -1,0 +1,7 @@
+﻿$axure.loadCurrentPage(
+(function() {
+    var _ = function() { var r={},a=arguments; for(var i=0; i<a.length; i+=2) r[a[i]]=a[i+1]; return r; }
+    var _creator = function() { return _(b,c,d,e,f,_(g,h,i,_(j,k,l,m)),n,[],o,_(h,p),q,[r,s],t,_(u,v,w,x,g,y,z,_(),A,[],B,_(C,D,E,F,G,_(H,I,J,K),L,null,M,_(N,F,O,F),P,Q,R,null,S,T,U,V,W,X,Y,T,Z,ba,bb,_(H,I,J,bc),bd,T,be,ba,bf,_(bg,bh,bi,bj,bk,bj,bl,bj,bm,m,J,_(bn,bo,bp,bo,s,bo,bq,br)),i,_(j,m,l,m)),bs,_(),bt,_(),bu,_(bv,[])),bw,_(),bx,_());}; 
+var b="url",c="服务费账单审批.html",d="generationDate",e=new Date(1751001126095.3364),f="defaultAdaptiveView",g="name",h="",i="size",j="width",k=10,l="height",m=0,n="adaptiveViews",o="sketchKeys",p="s0",q="variables",r="LeftMenuWidth",s="b",t="page",u="packageId",v="179deeba90564d5c8191d81f77ac34a5",w="type",x="Axure:Page",y="服务费账单审批",z="notes",A="annotations",B="style",C="baseStyle",D="627587b6038d43cca051c114ac41ad32",E="pageAlignment",F="near",G="fill",H="fillType",I="solid",J="color",K=0xFFFFFFFF,L="image",M="imageAlignment",N="horizontal",O="vertical",P="imageRepeat",Q="auto",R="favicon",S="sketchFactor",T="0",U="colorStyle",V="appliedColor",W="fontName",X="Applied Font",Y="borderWidth",Z="borderVisibility",ba="all",bb="borderFill",bc=0xFF797979,bd="cornerRadius",be="cornerVisibility",bf="outerShadow",bg="on",bh=false,bi="offsetX",bj=5,bk="offsetY",bl="blurRadius",bm="spread",bn="r",bo=0,bp="g",bq="a",br=0.34901960784313724,bs="adaptiveStyles",bt="interactionMap",bu="diagram",bv="objects",bw="masters",bx="objectPaths";
+return _creator();
+})());

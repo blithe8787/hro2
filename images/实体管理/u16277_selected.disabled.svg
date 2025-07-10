@@ -1,6 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="13px" height="13px" viewBox="217 182  13 13" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 223.5 182  C 227.14 182  230 184.86  230 188.5  C 230 192.14  227.14 195  223.5 195  C 219.86 195  217 192.14  217 188.5  C 217 184.86  219.86 182  223.5 182  Z " fill-rule="nonzero" fill="#f0f0f0" stroke="none" />
-  <path d="M 223.5 182.5  C 226.86 182.5  229.5 185.14  229.5 188.5  C 229.5 191.86  226.86 194.5  223.5 194.5  C 220.14 194.5  217.5 191.86  217.5 188.5  C 217.5 185.14  220.14 182.5  223.5 182.5  Z " stroke-width="1" stroke="#aaaaaa" fill="none" />
-  <path d="M 223.5 191.75  C 221.68 191.75  220.25 190.32  220.25 188.5  C 220.25 186.68  221.68 185.25  223.5 185.25  C 225.32 185.25  226.75 186.68  226.75 188.5  C 226.75 190.32  225.32 191.75  223.5 191.75  " fill-rule="nonzero" fill="#aaaaaa" stroke="none" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="13px" height="13px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
+  </defs>
+  <g transform="matrix(1 0 0 1 -280 -278.5 )">
+    <path d="M 0 0  L 13 0  L 13 13  L 0 13  L 0 0  Z " fill-rule="nonzero" fill="rgba(240, 240, 240, 1)" stroke="none" transform="matrix(1 0 0 1 280 278.5 )" class="fill" />
+    <path d="M 0.5 0.5  L 12.5 0.5  L 12.5 12.5  L 0.5 12.5  L 0.5 0.5  Z " stroke-width="1" stroke-dasharray="0" stroke="rgba(64, 158, 255, 1)" fill="none" transform="matrix(1 0 0 1 280 278.5 )" class="stroke" stroke-dashoffset="0.5" />
+    <path d="M 2.7857142857142856 6.5  L 5.571428571428571 9.285714285714286  L 10.214285714285715 2.7857142857142856  " stroke-width="2.7857142857142856" stroke-dasharray="0" stroke="rgba(64, 158, 255, 1)" fill="none" transform="matrix(1 0 0 1 280 278.5 )" class="stroke btn_check" />
+  </g>
 </svg>

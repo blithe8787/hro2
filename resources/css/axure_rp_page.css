@@ -382,3 +382,17 @@ object.img {
 #ios-safari-fixed div {
     pointer-events: auto;
 }
+
+.axhub-drawer .axhub-drawer-close {
+    order: 5 !important;
+    font-weight: 900;
+    color: #999999;
+    font-family: "微软雅黑";
+    border: 1px solid #999999;
+    border-radius: 20px;
+    margin-inline-end: 0px;
+}
+.axhub-drawer .axhub-drawer-title {
+    font-weight: 700;
+    color: #333333;
+}

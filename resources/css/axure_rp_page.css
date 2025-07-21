@@ -382,17 +382,49 @@ object.img {
 #ios-safari-fixed div {
     pointer-events: auto;
 }
-
+.axhub-modal .axhub-modal-close,
 .axhub-drawer .axhub-drawer-close {
     order: 5 !important;
     font-weight: 900;
     color: #999999;
     font-family: "微软雅黑";
     border: 1px solid #999999;
-    border-radius: 20px;
+    border-radius: 100%;
     margin-inline-end: 0px;
+    height: 24px;
+    width: 24px;
 }
+.axhub-modal .axhub-modal-title ,
 .axhub-drawer .axhub-drawer-title {
     font-weight: 700;
     color: #333333;
+}
+.axhub-form-item .axhub-form-item-additional {
+    text-align: left;
+}
+.axhub-form-item .axhub-form-item-explain-error {
+    font-size: 12px;
+}
+.axhub-pro-table .axhub-pro-table-search {
+    border-radius: 0 0 6px 6px;
+}
+.axhub-modal .axhub-modal-header{
+    padding: 15px 10px;
+    border-bottom: 1px solid #e9e9e9;
+}
+.axhub-modal .axhub-modal-content{
+    padding: 0px;
+}
+.axhub-modal .axhub-modal-footer{
+    border-top: 1px solid #e9e9e9;
+    padding: 10px 12px;
+}
+.axhub-modal .axhub-modal-body{
+    padding: 10px;
+}
+.axhub-select-selector{
+    text-align: left;
+}
+.axhub-modal.axhub-modal-confirm .axhub-modal-content{
+    padding: 20px 24px;
 }

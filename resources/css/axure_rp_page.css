@@ -428,3 +428,19 @@ object.img {
 .axhub-modal.axhub-modal-confirm .axhub-modal-content{
     padding: 20px 24px;
 }
+.axhub-descriptions .axhub-descriptions-item-container{
+    align-items: center;
+}
+.axhub-descriptions .axhub-descriptions-item-container .axhub-descriptions-item-label{
+    justify-content: end;
+    padding-right: 10px;
+}
+.axhub-select-dropdown .axhub-select-item-option-content{
+    text-align: left;
+}
+.axhub-descriptions .axhub-descriptions-item-label{
+   text-align: right;
+}
+.axhub-table-expanded-row-fixed .ax_default .ax_default{
+    padding: 0 5px;
+} 

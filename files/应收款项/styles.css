@@ -1,9 +1,10 @@
 ﻿body {
   margin:0px;
+  background-color:rgba(240, 246, 255, 1);
   background-image:none;
   position:static;
   left:auto;
-  width:10px;
+  width:1670px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -15,4 +16,35 @@
 #base {
   position:absolute;
   z-index:0;
+}
+#u25059 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1670px;
+  height:832px;
+  display:flex;
+  transition:none;
+}
+#u25059 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u25059_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1670px;
+  height:832px;
+}
+#u25059_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
 }

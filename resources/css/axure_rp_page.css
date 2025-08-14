@@ -447,3 +447,8 @@ object.img {
 .axhub-form-vertical .axhub-col{
     text-align: left;
 }
+div[data-label="axhub-antd-dslate"]>div{
+   display: grid;
+   grid-template-rows: auto 1fr;
+    overflow: hidden;
+}

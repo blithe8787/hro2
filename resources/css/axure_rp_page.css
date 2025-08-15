@@ -452,3 +452,11 @@ div[data-label="axhub-antd-dslate"]>div{
    grid-template-rows: auto 1fr;
     overflow: hidden;
 }
+.axhub-descriptions.axhub-descriptions-bordered.axhub-descriptions-small .axhub-descriptions-row >.axhub-descriptions-item-label,
+.axhub-descriptions.axhub-descriptions-bordered.axhub-descriptions-small .axhub-descriptions-row >.axhub-descriptions-item-content
+{
+    padding: 8px;
+}
+.axhub-descriptions .axhub-descriptions-item-content{
+    text-align: left;
+}

@@ -21983,7 +21983,7 @@
   left:0px;
   top:0px;
   width:1648px;
-  height:2245px;
+  height:2870px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   box-sizing:border-box;
@@ -22006,7 +22006,7 @@
   left:20px;
   top:3386px;
   width:1648px;
-  height:2245px;
+  height:2870px;
   display:flex;
   transition:none;
   transform-origin:50% 50%;
@@ -22023,4 +22023,35 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
+}
+#u481 {
+  border-width:0px;
+  position:absolute;
+  left:32px;
+  top:3854px;
+  width:1262px;
+  height:433px;
+  display:flex;
+  transition:none;
+}
+#u481 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u481_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1262px;
+  height:433px;
+}
+#u481_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
 }
